@@ -10,7 +10,7 @@ use App\homeSetting;
 use App\contactSetting;
 use App\footerSetting;
 use App\socialSetting;
-use App\termsSetting;
+use App\TermsSetting;
 
 
 class AppServiceProvider extends ServiceProvider
